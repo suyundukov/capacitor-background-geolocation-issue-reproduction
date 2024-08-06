@@ -1,0 +1,16 @@
+{
+  "name": "quasar-project",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "Nurlan Suyundukov <hey@suyundukov.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.1.1",
+    "@capacitor/local-notifications": "^6.0.0",
+    "@transistorsoft/capacitor-background-fetch": "^6.0.0",
+    "@transistorsoft/capacitor-background-geolocation": "^6.0.3"
+  }
+}

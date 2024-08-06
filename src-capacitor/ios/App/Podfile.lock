@@ -1,0 +1,55 @@
+PODS:
+  - Capacitor (6.1.1):
+    - CapacitorCordova
+  - CapacitorApp (6.0.0):
+    - Capacitor
+  - CapacitorCordova (6.1.1)
+  - CapacitorLocalNotifications (6.0.0):
+    - Capacitor
+  - CocoaLumberjack (3.7.4):
+    - CocoaLumberjack/Core (= 3.7.4)
+  - CocoaLumberjack/Core (3.7.4)
+  - TransistorsoftCapacitorBackgroundFetch (6.0.0):
+    - Capacitor
+  - TransistorsoftCapacitorBackgroundGeolocation (6.0.3):
+    - Capacitor
+    - CocoaLumberjack (~> 3.7.2)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorLocalNotifications (from `../../node_modules/@capacitor/local-notifications`)"
+  - "TransistorsoftCapacitorBackgroundFetch (from `../../node_modules/@transistorsoft/capacitor-background-fetch`)"
+  - "TransistorsoftCapacitorBackgroundGeolocation (from `../../node_modules/@transistorsoft/capacitor-background-geolocation`)"
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorLocalNotifications:
+    :path: "../../node_modules/@capacitor/local-notifications"
+  TransistorsoftCapacitorBackgroundFetch:
+    :path: "../../node_modules/@transistorsoft/capacitor-background-fetch"
+  TransistorsoftCapacitorBackgroundGeolocation:
+    :path: "../../node_modules/@transistorsoft/capacitor-background-geolocation"
+
+SPEC CHECKSUMS:
+  Capacitor: 8941aba4364ba9d1b22188569001f2ce45cc2b00
+  CapacitorApp: 9d53aec7101f7b030a950c5bdc4df8612576b279
+  CapacitorCordova: 8f2cc8d8d3619c566e9418fe8772064a94266106
+  CapacitorLocalNotifications: 4ab68f0be5f697a579558fadd307d823a9ec1c26
+  CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
+  TransistorsoftCapacitorBackgroundFetch: 1700b75a769dba73879dda6059989f22596e22a0
+  TransistorsoftCapacitorBackgroundGeolocation: c21009edbbed68b840723b9dbed9d0b9a00e5f7e
+
+PODFILE CHECKSUM: 5565fd078cf279f7f00bd3c3bf56c11485f35bea
+
+COCOAPODS: 1.15.2
